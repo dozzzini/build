@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e77237a1.css",
+    "main.js": "/static/js/main.08dc7bd6.js",
+    "static/media/오뮤_다예쁨체.ttf": "/static/media/오뮤_다예쁨체.a709da7b5fd009ebd794.ttf",
+    "static/media/Giants-Inline.ttf": "/static/media/Giants-Inline.a193817e46137261a1ad.ttf",
+    "static/media/Giants-Regular.ttf": "/static/media/Giants-Regular.b552ad4a095ce89b3a1e.ttf",
+    "index.html": "/index.html",
+    "main.e77237a1.css.map": "/static/css/main.e77237a1.css.map",
+    "main.08dc7bd6.js.map": "/static/js/main.08dc7bd6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e77237a1.css",
+    "static/js/main.08dc7bd6.js"
+  ]
+}
